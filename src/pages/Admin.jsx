@@ -3,7 +3,7 @@ import { supabase } from '../lib/supabase';
 import { Input } from '../components/ui/input';
 import { Button } from '../components/ui/button';
 
-const ADMIN_EMAIL = 'tunombre@tucorreo.com'; // <-- reemplaza con tu email
+const ADMIN_EMAIL = 'nicolascm329@gmail.com'; // <-- reemplaza con tu email
 
 export default function AdminPanel() {
   const [user, setUser] = useState(null);
