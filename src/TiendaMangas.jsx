@@ -54,7 +54,7 @@ export default function TiendaMangas() {
   };
 
   return (
-    <div className="max-w-screen-xl mx-auto">
+    <div className="w-full max-w-screen-xl mx-auto px-4">
       {/* HEADER */}
       <header className="sticky top-0 z-50 bg-white shadow flex flex-col md:flex-row gap-3 items-center justify-between px-4 py-3">
         <h1 className="text-xl font-bold">🛍️ Tienda de Mangas</h1>
